@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basharbayatna/your-repo-name/main/yourphoto.png" alt="Project Banner" width="600"/>
-</p>
+ 
+
 
 ![istockphoto-2084953046-612x612](https://github.com/user-attachments/assets/544b0f15-525a-4602-a0d4-db1cc67d5509)
 
