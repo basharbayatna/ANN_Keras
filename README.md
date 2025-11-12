@@ -1,3 +1,8 @@
+<img width="612" height="383" alt="image" src="https://github.com/user-attachments/assets/2c2a99ed-e884-43e1-8dd2-02961d5597e5" />
+
+
+
+
 # Machine Learning with Keras
 
 This repository contains several Jupyter notebooks created using **Google Colab**, focused on building and understanding deep learning models with **Keras**. Each notebook demonstrates different types of neural network tasks such as regression, binary classification, and multiclass classification.
