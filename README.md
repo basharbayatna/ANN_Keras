@@ -1,6 +1,6 @@
 
+![istockphoto-2084953046-612x612](https://github.com/user-attachments/assets/544b0f15-525a-4602-a0d4-db1cc67d5509)
 
-                                                                                  <img width="612" height="383" alt="image" src="https://github.com/user-attachments/assets/81a2c8e1-71db-4ceb-bf9f-de12b5995f17" />
 
 
 # Machine Learning with Keras
